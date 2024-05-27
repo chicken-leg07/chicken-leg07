@@ -1,0 +1,3 @@
+- 👋 Hi, I’m chicken leg
+- 👀 I’m interested in web development
+- ⚡ Fun fact: I laugh at my own projects!
