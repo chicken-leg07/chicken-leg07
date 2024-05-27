@@ -1,3 +1,3 @@
 - 👋 Hi, I’m chicken leg
 - 👀 I’m interested in web development
-- ⚡ Fun fact: nothing
+- ⚡ Fun fact: being real chicken leg
